@@ -9,7 +9,7 @@ class Main1 extends Component {
   render(){
     return (
 
-      <div className = "main-section" id = "main">
+<div className = "main-section" id = "main">
 
 <div className = "cartoon-section-lrg">
     <LargeCartoonComponent1/>
